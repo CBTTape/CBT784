@@ -1,0 +1,12 @@
+2023-08-06 07:32:55.137954 - Initialized conversion of CBT784
+2023-08-06 07:32:55.204650 - Received CBT.V505.FILE784.PDS from FILE784.XMI 
+2023-08-06 07:32:55.207447 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE784.PDS, moved to PDS/$$$#DATE
+2023-08-06 07:32:55.208530 - Found $$DOC.txt (text/plain) in CBT.V505.FILE784.PDS, moved to PDS/$$DOC
+2023-08-06 07:32:55.209624 - Found $$INST.txt (text/plain) in CBT.V505.FILE784.PDS, moved to PDS/$$INST
+2023-08-06 07:32:55.210495 - Found $$NOTE1.txt (text/plain) in CBT.V505.FILE784.PDS, moved to PDS/$$NOTE1
+2023-08-06 07:32:55.211316 - Found @FILE784.txt (text/plain) in CBT.V505.FILE784.PDS, moved to PDS/@FILE784
+2023-08-06 07:32:55.212209 - Found DSLIST0.rexx (text/plain) in CBT.V505.FILE784.PDS, moved to PDS/DSLIST0
+2023-08-06 07:32:55.213049 - Found DSLIST4.rexx (text/html) in CBT.V505.FILE784.PDS, moved to PDS/DSLIST4
+2023-08-06 07:32:55.727938 - Found PAXFILE.xmi (application/xmit) in CBT.V505.FILE784.PDS
+2023-08-06 07:32:55.732180   - Received to CBT784/DSLIST.PAX
+2023-08-06 07:32:55.733368 - Found RECEIVE.jcl (text/plain) in CBT.V505.FILE784.PDS, moved to PDS/RECEIVE
